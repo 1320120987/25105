@@ -1,0 +1,1 @@
+F:\Project\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.csprojResolveAssemblyReference.cache

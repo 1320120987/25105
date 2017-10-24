@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JXMaker.Common.GeneralHelper</name>
+    </assembly>
+    <members>
+        <member name="T:JXMaker.Common.GeneralHelper.CheckAttackHelper">
+            <summary>
+            危险字符串操作类
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.CheckAttackHelper.CheckAttack(System.String)">
+            <summary>
+            检测字符串中是否含有危险字符；
+            防止SQL注入式攻击
+            </summary>
+            <param name="str"></param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.CheckAttackHelper.FilterAttack(System.String)">
+            <summary>
+            检测和过滤字符串中的危险字符；
+            防止SQL注入式攻击
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.CheckAttackHelper.FilterAttack``1(``0@)">
+            <summary>
+            检测和过滤字符串中的危险字符；防止SQL注入式攻击
+            </summary>
+            <typeparam name="T">对象类型</typeparam>
+            <param name="obj">要过滤的对象</param>
+        </member>
+        <member name="P:JXMaker.Common.GeneralHelper.CheckAttackHelper.AttackList">
+            <summary>
+            危险字符串列表
+            </summary>
+        </member>
+        <member name="T:JXMaker.Common.GeneralHelper.ByteHelper">
+            <summary>
+            byte 类型相关的操作类
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.StrToByteArr(System.String,System.String)">
+            <summary>
+            字符串转化成特定编码格式的byte数组
+            </summary>
+            <param name="str"></param>
+            <param name="encodeName">如GBK</param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.StrToByteArr(System.String,System.Text.Encoding)">
+            <summary>
+            字符串转化成特定编码格式的byte数组
+            </summary>
+            <param name="str"></param>
+            <param name="encode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.NumberToByteArr``1(``0)">
+            <summary>
+            将数值转化成大端字节数组
+            泛型仅接受short,int,long三种类型，其他类型返回异常
+            </summary>
+            <typeparam name="T">short,int,long</typeparam>
+            <param name="t"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractInt16Number(System.Byte[],System.Int32,System.Boolean)">
+            <summary>
+            从byte数组中提取short数值
+            本方法不处理异常
+            </summary>
+            <param name="packet"></param>
+            <param name="index">开始位索引</param>
+            <param name="isBigEndian">byte数组存储的大小端</param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractInt32Number(System.Byte[],System.Int32,System.Boolean)">
+            <summary>
+            从byte数组中提取int数值
+            本方法不处理异常
+            </summary>
+            <param name="packet"></param>
+            <param name="index">开始位索引</param>
+            <param name="isBigEndian">byte数组存储的大小端</param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractInt64Number(System.Byte[],System.Int32,System.Boolean)">
+            <summary>
+            从byte数组中提取long数值
+            本方法不处理异常
+            </summary>
+            <param name="packet"></param>
+            <param name="index">开始位索引</param>
+            <param name="isBigEndian">byte数组存储的大小端</param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractNumber(System.Byte[],System.Int32,System.SByte,System.Boolean)">
+            <summary>
+            从byte数组中提取数值，返回long，调用方可自行将结果转化成相应的类型
+            本方法不处理异常
+            </summary>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <param name="len"></param>
+            <param name="isBigEndian"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.BytArrInsert(System.Byte[]@,System.Byte[],System.Int32,System.Int32,System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据插入到目标byte数组的指定的位置
+            </summary>
+            <param name="packet"></param>
+            <param name="source"></param>
+            <param name="packetIndex"></param>
+            <param name="sourceIndex"></param>
+            <param name="len"></param>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractPart(System.Byte[],System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractPart(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <param name="len"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractStr(System.Byte[],System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractStr(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <param name="len"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractStr(System.Text.Encoding,System.Byte[],System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="encode"></param>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.ExtractStr(System.Text.Encoding,System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            将一个byte数组中的某段数据提取出来
+            </summary>
+            <param name="encode"></param>
+            <param name="packet"></param>
+            <param name="index"></param>
+            <param name="len"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.BytArrAppend(System.Byte[]@,System.Byte)">
+            <summary>
+            将一个byte追加到目标byte数组
+            </summary>
+            <param name="packet"></param>
+            <param name="bit"></param>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.BytArrAppend(System.Byte[]@,System.Byte[])">
+            <summary>
+            将一个byte数组追加到目标byte数组
+            </summary>
+            <param name="packet"></param>
+            <param name="source"></param>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.BytArrAppend(System.Byte[]@,System.Byte[],System.Int32)">
+            <summary>
+            将一个byte数组追加到目标byte数组
+            </summary>
+            <param name="packet"></param>
+            <param name="source"></param>
+            <param name="sourceLen">源byte数组的长度</param>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.ByteHelper.BytArrToHexStr(System.Byte[])">
+            <summary>
+            将一个byte数组转化成16进制形式的字符串
+            </summary>
+            <param name="packet"></param>
+            <returns></returns>
+        </member>
+        <member name="T:JXMaker.Common.GeneralHelper.PinyinHelper">
+            <summary>
+            将中文转换成拼音的类，目前只能转换成拼音首字母
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.PinyinHelper.ConvertToShortPinyin(System.String)">
+            <summary>
+            将中文转换成拼音的类，目前只能转换成拼音首字母
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.PinyinHelper.GetPinyin(System.String)">
+            <summary>
+            获得汉字的拼音，如果输入的是英文字符将原样输出，中文标点符号将被忽略
+            </summary>
+            <param name="chineseChars">汉字字符串</param>
+            <returns>拼音</returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.PinyinHelper.GetShortPinyin(System.String)">
+            <summary>
+            获得汉字拼音的简写，即每一个汉字的拼音的首字母组成的串，如果输入的是英文字符将原样输出，中文标点符号将被忽略
+            </summary>
+            <param name="chineseChars">汉字字符串</param>
+            <returns>拼音简写</returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.PinyinHelper.GetPinyin(System.Int32)">
+            <summary>
+            获得单个文字的拼音
+            </summary>
+            <param name="charValue"></param>
+            <returns></returns>
+        </member>
+        <member name="T:JXMaker.Common.GeneralHelper.StringHelper">
+            <summary>
+            字符串操作类，比较常用的那一些方法
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.ExtractNumber(System.String)">
+            <summary>
+            用于提取字符串中的数字，去掉数字外的任何字符
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.ExistsChineseLetter(System.String)">
+            <summary>
+            判断字符串是否包含汉字
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.IsChineseLetterStr(System.String)">
+            <summary>
+            判断字符串是否全为汉字
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.IsNumberStr(System.String)">
+            <summary>
+            判断字符串是否由纯数字组成
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.FullyFormed2Semiangle(System.String)">
+            <summary>
+            将字符串中的全角括号、阿拉伯数字转化成半角格式
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.ConvertToNum``1(System.String,System.Boolean,``0,``0,``0)">
+            <summary>
+            将数值型字符串转化成数值，如果异常，返回默认值
+            </summary>
+            <typeparam name="T">数值类型</typeparam>
+            <param name="str"></param>
+            <param name="boundaryValue">如果传入的值超界，取边界值或默认值</param>
+            <param name="minValue">下限</param>
+            <param name="maxValue">上限</param>
+            <param name="defaultValue">默认值</param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.GetStrng(System.Object)">
+            <summary>
+            可空类型转换字符串
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="t"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.GeneralHelper.StringHelper.GetStrng(System.Object,System.Boolean)">
+            <summary>
+            数字类型转换字符串
+            </summary>
+            <param name="t"></param>
+            <param name="kill0"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

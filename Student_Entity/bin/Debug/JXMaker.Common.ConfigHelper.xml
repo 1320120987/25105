@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JXMaker.Common.ConfigHelper</name>
+    </assembly>
+    <members>
+        <member name="T:JXMaker.Common.ConfigHelper">
+            <summary>
+            配置文件操作类
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.ConfigHelper.GetAppSetting(System.String)">
+            <summary>
+            得到 appSettings 中的配置字符串信息
+            </summary>
+            <param name="key">appSettings 节点的子结点的 Key</param>
+            <returns>string</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConfigHelper.GetConnectionString(System.String)">
+            <summary>
+            得到 connectionStrings 中的配置字符串信息
+            </summary>
+            <param name="key">connectionStrings 节点的子结点的 Key</param>
+            <returns>string</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConfigHelper.ResetAppSetting(System.String,System.String)">
+            <summary>
+            修改 appSettings 中的配置字符串信息
+            </summary>
+            <param name="key">appSettings 节点的子结点的 Key</param>
+            <param name="newValue"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

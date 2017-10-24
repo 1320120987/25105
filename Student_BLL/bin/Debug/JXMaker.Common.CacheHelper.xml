@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JXMaker.Common.CacheHelper</name>
+    </assembly>
+    <members>
+        <member name="M:JXMaker.Common.CacheHelper.GetCache(System.String)">
+            <summary>
+            读取缓存，不存在时返回null，失败时抛出异常
+            </summary>
+            <param name="cacheKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.CacheHelper.SetCache(System.String,System.Object)">
+            <summary>
+            设置缓存，有效时长2小时，失败时抛出异常
+            </summary>
+            <param name="cacheKey"></param>
+            <param name="obj"></param>
+        </member>
+        <member name="M:JXMaker.Common.CacheHelper.SetCache(System.String,System.Object,System.DateTime,System.TimeSpan)">
+            <summary>
+            设置缓存，失败时抛出异常
+            </summary>
+            <param name="cacheKey"></param>
+            <param name="obj"></param>
+            <param name="absoluteExpiration"></param>
+            <param name="slidingExpiration"></param>
+        </member>
+        <member name="M:JXMaker.Common.CacheHelper.RemoveCache(System.String)">
+            <summary>
+            删除缓存，返回对应的结果，如果缓存不存在，返回null，失败时抛出异常
+            </summary>
+            <param name="cacheKey"></param>
+            <remarks></remarks>
+        </member>
+    </members>
+</doc>

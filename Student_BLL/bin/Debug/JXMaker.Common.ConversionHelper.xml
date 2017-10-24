@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JXMaker.Common.ConversionHelper</name>
+    </assembly>
+    <members>
+        <member name="T:JXMaker.Common.ConversionHelper">
+            <summary>
+            序列化与对象转换类
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.BinarySerializer``1(``0)">
+            <summary>
+            二进制序列化，本方法不处理异常
+            </summary>
+            <param name="t">T</param>
+            <returns>byte[]</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.BinaryDeserializer``1(System.Byte[])">
+            <summary>
+            二进制反序列化，本方法不处理异常
+            </summary>
+            <param name="bytes"></param>
+            <returns>T</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.XmlSerializer``1(``0)">
+            <summary>
+            Xml序列化，本方法不处理异常
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="t"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.XmlDeserializer``1(System.String)">
+            <summary>
+            Xml反序列化，本方法不处理异常
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.DataTableToGenericList``1(System.Data.DataTable)">
+            <summary>
+            将DataTable转换成List，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.DataTableToGeneric``1(System.Data.DataTable)">
+            <summary>
+            将DataTable转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.DataTableToGeneric``1(System.Data.DataRow)">
+            <summary>
+            将DataRow转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="dr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.NameValueCollectionToGeneric``1(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            将键值对表单转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="parms">待转换键值对</param>
+            <returns>对象</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.NameValueCollectionToGeneric``1(System.Collections.Specialized.NameValueCollection,System.Boolean)">
+            <summary>
+            将键值对表单转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="parms">待转换键值对</param>
+            <param name="ckSQL">是否进行SQL关键词检测</param>
+            <returns>对象</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.NameValueCollectionToGeneric``1(System.Collections.Specialized.NameValueCollection,System.String)">
+            <summary>
+            将键值对表单转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="parms">待转换键值对</param>
+            <param name="prefix">前缀</param>
+            <returns>对象</returns>
+        </member>
+        <member name="M:JXMaker.Common.ConversionHelper.NameValueCollectionToGeneric``1(System.Collections.Specialized.NameValueCollection,System.String,System.Boolean)">
+            <summary>
+            将键值对表单转换成实体类，本方法不处理异常类
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="parms">待转换键值对</param>
+            <param name="prefix">前缀</param>
+            <param name="isCheckSQLKeyword">是否进行SQL关键词检测</param>
+            <returns>对象</returns>
+        </member>
+    </members>
+</doc>

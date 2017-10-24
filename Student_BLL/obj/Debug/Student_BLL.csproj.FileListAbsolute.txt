@@ -1,0 +1,1 @@
+F:\Project\成绩查询\Student_BLL\obj\Debug\Student_BLL.csprojFakesResolveAssemblyReference.cache

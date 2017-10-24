@@ -1,0 +1,5 @@
+F:\Project\成绩查询\Student_Entity\bin\Debug\Student_Entity.dll
+F:\Project\成绩查询\Student_Entity\bin\Debug\Student_Entity.pdb
+F:\Project\成绩查询\Student_Entity\obj\Debug\Student_Entity.csprojResolveAssemblyReference.cache
+F:\Project\成绩查询\Student_Entity\obj\Debug\Student_Entity.dll
+F:\Project\成绩查询\Student_Entity\obj\Debug\Student_Entity.pdb

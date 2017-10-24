@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{899EE805-DD00-4A4E-AFF1-EAA2771B7743}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Student_BLL</RootNamespace>
+    <AssemblyName>Student_BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="JXMaker.Common.ConversionHelper">
+      <HintPath>..\..\..\Library.NET\Release\Common\JXMaker.Common.ConversionHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="JXMaker.Common.EncryptHelper">
+      <HintPath>..\..\..\Library.NET\Release\Common\JXMaker.Common.EncryptHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="JXMaker.Common.GeneralHelper">
+      <HintPath>..\..\..\Library.NET\Release\Common\JXMaker.Common.GeneralHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="JXMaker.Common.LogHelper">
+      <HintPath>..\..\..\Library.NET\Release\Common\JXMaker.Common.LogHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentMgBLL.cs" />
+    <Compile Include="TeacherBLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Student_DAL\Student_DAL\com.jxmaker.WebForm.DAL.csproj">
+      <Project>{2b4fb691-e9da-485c-be92-95e94a731df6}</Project>
+      <Name>com.jxmaker.WebForm.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Student_Entity\com.jxmaker.WebForm.Entity.csproj">
+      <Project>{e22e49dc-2e24-4c19-8416-d47f32e36509}</Project>
+      <Name>com.jxmaker.WebForm.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Student_Util\com.jxmaker.WebForm.Util.csproj">
+      <Project>{37699dbd-5675-4e76-8196-f707f2c22806}</Project>
+      <Name>com.jxmaker.WebForm.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

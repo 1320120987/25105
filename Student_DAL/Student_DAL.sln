@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.DAL", "Student_DAL\com.jxmaker.WebForm.DAL.csproj", "{2B4FB691-E9DA-485C-BE92-95E94A731DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.BLL", "..\Student_BLL\com.jxmaker.WebForm.BLL.csproj", "{899EE805-DD00-4A4E-AFF1-EAA2771B7743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.Entity", "..\Student_Entity\com.jxmaker.WebForm.Entity.csproj", "{E22E49DC-2E24-4C19-8416-D47F32E36509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.DBprovider", "Student_DBprovider\com.jxmaker.WebForm.DBprovider.csproj", "{47605BE2-3022-46FA-8131-5EE2445E2845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.UI", "..\Student_UI\com.jxmaker.WebForm.UI.csproj", "{BFC5AACC-8505-4998-A28F-A42C4B94FE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jxmaker.WebForm.Util", "..\Student_Util\com.jxmaker.WebForm.Util.csproj", "{37699DBD-5675-4E76-8196-F707F2C22806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4FB691-E9DA-485C-BE92-95E94A731DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4FB691-E9DA-485C-BE92-95E94A731DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4FB691-E9DA-485C-BE92-95E94A731DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4FB691-E9DA-485C-BE92-95E94A731DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899EE805-DD00-4A4E-AFF1-EAA2771B7743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899EE805-DD00-4A4E-AFF1-EAA2771B7743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899EE805-DD00-4A4E-AFF1-EAA2771B7743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899EE805-DD00-4A4E-AFF1-EAA2771B7743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22E49DC-2E24-4C19-8416-D47F32E36509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22E49DC-2E24-4C19-8416-D47F32E36509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22E49DC-2E24-4C19-8416-D47F32E36509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22E49DC-2E24-4C19-8416-D47F32E36509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47605BE2-3022-46FA-8131-5EE2445E2845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47605BE2-3022-46FA-8131-5EE2445E2845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47605BE2-3022-46FA-8131-5EE2445E2845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47605BE2-3022-46FA-8131-5EE2445E2845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC5AACC-8505-4998-A28F-A42C4B94FE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC5AACC-8505-4998-A28F-A42C4B94FE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC5AACC-8505-4998-A28F-A42C4B94FE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC5AACC-8505-4998-A28F-A42C4B94FE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37699DBD-5675-4E76-8196-F707F2C22806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37699DBD-5675-4E76-8196-F707F2C22806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37699DBD-5675-4E76-8196-F707F2C22806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37699DBD-5675-4E76-8196-F707F2C22806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

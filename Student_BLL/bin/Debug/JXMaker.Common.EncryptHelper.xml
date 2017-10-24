@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JXMaker.Common.EncryptHelper</name>
+    </assembly>
+    <members>
+        <member name="T:JXMaker.Common.EncryptHelper">
+            <summary>
+            加密解密算法的具体实现类
+            </summary>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToMD5_Forms(System.String)">
+            <summary>
+            生成32位的MD5字符串：原生态加密(FormsAuthentication)
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToMD5_CSP(System.String)">
+            <summary>
+            生成32位的MD5字符串(MD5CryptoServiceProvider)
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToMD5_Hash(System.String)">
+            <summary>
+            生成32位的MD5字符串(MD5Hash)
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToDoubleMD5_Hash(System.String)">
+            <summary>
+            生成32位的双MD5字符串(MD5Hash)
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToMD5_16(System.String)">
+            <summary>
+            生成16位的MD5字符串
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.EncryptToTripleDES(System.String,System.String,System.String)">
+            <summary>
+            TripleDES加密（对称加密）
+            </summary>
+            <param name="key"></param>
+            <param name="iv"></param>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JXMaker.Common.EncryptHelper.DecryptFromTripleDES(System.String,System.String,System.String)">
+            <summary>
+            TripleDES解密（对称加密）
+            </summary>
+            <param name="key"></param>
+            <param name="iv"></param>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

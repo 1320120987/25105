@@ -1,0 +1,116 @@
+H:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.xml
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.xml
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.xml
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.pdb
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.xml
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.dll
+I:\帅\关键东西\网站建设\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.xml
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.xml
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.xml
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.pdb
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.xml
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\476020042\FileRecv\成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.xml
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.xml
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.xml
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.pdb
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.xml
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.dll
+H:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.xml
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.xml
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.xml
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.pdb
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.xml
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.dll
+I:\帅\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DAL.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Entity.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_Util.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\Student_DBprovider.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.DBProvider.SqlServer.xml
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.ConfigHelper.xml
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.LogHelper.xml
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.pdb
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\bin\Debug\JXMaker.Common.CacheHelper.xml
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\com.jxmaker.WebForm.DAL.csprojResolveAssemblyReference.cache
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.dll
+H:\SUI\关键东西\网站建设\AJAX删除例子-成绩查询(1)\成绩查询\Student_DAL\Student_DAL\obj\Debug\Student_DAL.pdb
